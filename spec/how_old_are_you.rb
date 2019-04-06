@@ -6,4 +6,3 @@ birth_year = gets.to_i
 users_age = current_age_for_birth_year(1984)
 
 puts "You are: " + users_age.to_s + " 19."
-
